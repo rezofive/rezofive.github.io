@@ -8864,8 +8864,10 @@ color:white;
 .benefitinfo:nth-of-type(1){
   position: relative;
   width:15vw;
+  max-width: 216px;
   min-width: 140px;
   height:12vw;
+  max-height: 172px;
   min-height: 120px;
   background-image:url(../images/rezofiveimg/img/global\ support.png);
   background-size:cover;
@@ -8873,8 +8875,10 @@ color:white;
 .benefitinfo:nth-of-type(2){
   position: relative;
   width:15vw;
+  max-width: 216px;
   min-width: 140px;
   height:12vw;
+  max-height: 172px;
   min-height: 120px;
   background-image:url(../images/rezofiveimg/img/low\ cost.png);
   background-size:cover;
@@ -8882,8 +8886,10 @@ color:white;
 .benefitinfo:nth-of-type(3){
   position: relative;
   width:15vw;
+  max-width: 216px;
   min-width: 140px;
   height:12vw;
+  max-height: 172px;
   min-height: 120px;
   background-image:url(../images/rezofiveimg/img/fast\ transactions.png);
   background-size:cover;
@@ -8891,8 +8897,10 @@ color:white;
 .benefitinfo:nth-of-type(4){
   position: relative;
   width:15vw;
+  max-width: 216px;
   min-width: 140px;
   height:12vw;
+  max-height: 172px;
   min-height: 120px;
   background-image:url(../images/rezofiveimg/img/simple\ signup.png);
   background-size:cover;
