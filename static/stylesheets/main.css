@@ -404,9 +404,11 @@ section{
   top:0;
   z-index:-2;
 }
+
 .fxd-bg{
   background-attachment:fixed !important;
   background-size:cover!important;
+  background-color: rgb(230,241,248);
 }
 .blk-lyr:before, 
 .wht-lyr:before,
