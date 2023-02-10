@@ -1300,10 +1300,10 @@ header.styl8.stcky nav > ul > li {
   width: 100%;
 }
 .serv-bx1 > i {
-  border: 2px solid #f2f2f2;
+  border: 2px solid #fff;
   height: 68px;
   width: 68px;
-  background-color: #f2f2f2;
+  background-color: #fff;
   float: left;
   text-align: center;
   line-height: 66px;
