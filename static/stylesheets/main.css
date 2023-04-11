@@ -8810,8 +8810,8 @@ width:160px;
 .footerContent p{
   color:white;
   font-size: 10px;
-  margin: 0 0 10px;
   padding-top: 2.4px;
+  margin:0px;
 }
 .footerContent a{
 color:white;
@@ -8825,6 +8825,10 @@ padding-bottom: 5px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
+  align-items: center;
+}
+.footerRight >div:nth-child(1){
+ margin-right: 10px;
 }
 .subscribeImg{
   padding-bottom: 50px;
