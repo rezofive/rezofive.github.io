@@ -6129,7 +6129,7 @@ header.styl8 nav {
   padding-left: 50px;
 }
 header.styl8 nav > ul {
-  padding-left: ;
+  padding-left: 0;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -8813,7 +8813,7 @@ width:160px;
   padding-top: 2.4px;
   margin:0px;
 }
-.footerContent a{
+.footerContent .snsIcon a{
 color:white;
 font-size: 20px;
 margin-left: 4px;
@@ -8955,3 +8955,16 @@ color:white;
   line-height: 1.3;
 }
 
+.ymlSection p{
+  color: black;
+}
+
+.YmlInfo {
+  margin-bottom: 100px;
+}
+.YmlInfo h4{
+  text-align: center;
+}
+.YmlInfo h5{
+  text-align: center;
+}
